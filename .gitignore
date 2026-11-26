@@ -20,3 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# local login-attempt log (contains user emails)
+failed_logins.txt
